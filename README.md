@@ -11,6 +11,10 @@
 
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 👯 I’m looking to collaborate on **software-development**
+- 🤝 I’m looking for help with **getting hired for my next job.**
+- 👨‍💻 All of my projects are available at [https://massazoum.github.io/Portfolio-setup-and-mobile-first/](https://massazoum.github.io/Portfolio-setup-and-mobile-first/)
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **zoumaniguimassa12@gmail.com**
 
