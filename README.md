@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Massa Zoumanigui</h1>
 <h3 align="center">A passionate frontend developer from Guinea </h3>
 
-<h4 align="center"> I'm now taking part in Microverse, a remote software development program that emphasizes pair programming and project development. I have developed crucial soft skills throughout this program, like good communication, teamwork, and adaptability, which are essential for working in a team-oriented setting. I am ecstatic about the possibility of putting my aptitude for problem-solving to use as a talented software engineer and working remotely for a credible computer firm. </h4>
+<h4 align="center" style="color:white"> I'm now taking part in Microverse, a remote software development program that emphasizes pair programming and project development. I have developed crucial soft skills throughout this program, like good communication, teamwork, and adaptability, which are essential for working in a team-oriented setting. I am ecstatic about the possibility of putting my aptitude for problem-solving to use as a talented software engineer and working remotely for a credible computer firm. </h4>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massazoum&label=Profile%20views&color=0e75b6&style=flat" alt="massazoum" /> </p>
