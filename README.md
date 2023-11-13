@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **software-development**
 - 🤝 I’m looking for help with **getting hired for my next job.**
 - 👨‍💻 All of my projects are available at [Portfolio](https://massazoum.github.io/PRT)
-- 💬 Ask me about **JavaScript React  Node.js MongoDB Ruby on Rails **
+- 💬 Ask me about ** JavaScript React  Node.js MongoDB Ruby on Rails **
 
 - 📫 How to reach me **zoumaniguimassa12@gmail.com**
 
