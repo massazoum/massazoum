@@ -13,11 +13,11 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Node.js **
 - 👯 I’m looking to collaborate on **software-development**
 - 🤝 I’m looking for help with **getting hired for my next job.**
 - 👨‍💻 All of my projects are available at [Portfolio](https://massazoum.github.io/PRT)
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **JavaScript React  Node.js MongoDB Ruby on Rails **
 
 - 📫 How to reach me **zoumaniguimassa12@gmail.com**
 
